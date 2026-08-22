@@ -25,4 +25,6 @@ CO, SO2, O3, Benzene, Toluene, and Xylene — along with City and Date metadata.
 ## 🛠️ Tech Stack
 Python · scikit-learn · pandas · NumPy · Matplotlib · Seaborn · Google Colab
 
-Jai Aditya Deo. D - Lead Developer
+Jai Aditya Deo. D 
+
+Lead Developer
